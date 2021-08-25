@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Inscxful, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀</div>  
+### <div align="center">I'm Inscifxul, a Discord Bot Developer 😂 Started Coding since 2021 on Bots 🚀</div>  
 
 - 🔭 I’m currently working on A Moderation Bot
 - 🌱 I’m currently learning CSS & Python
@@ -12,4 +12,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Made Bots For Big Servers xD
 - ❓ I Like Coding & Helping
--->
